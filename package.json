@@ -40,7 +40,7 @@
     "@nrwl/workspace": "13.8.8",
     "@types/aws-lambda": "8.10.93",
     "@types/jest": "27.4.1",
-    "@types/node": "15.12.4",
+    "@types/node": "16.11.26",
     "@types/serverless": "1.78.44",
     "@types/terser-webpack-plugin": "5.0.4",
     "@types/webpack": "5.28.0",
@@ -63,7 +63,7 @@
     "webpack-node-externals": "3.0.0"
   },
   "engines": {
-    "node": ">=14 <15"
+    "node": ">=14 <17"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [
